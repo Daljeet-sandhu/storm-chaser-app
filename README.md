@@ -26,7 +26,7 @@ This project was built as a portfolio/demo app to showcase mobile development sk
 ---
 ## Demo Video
 
-[▶️ Watch Demo Video](https://vimeo.com/1093872578?share=copy)
+[▶️ Watch Demo Video](https://drive.google.com/file/d/1uzq5KtAyVJsZ3CyE8HiCvJmE6oChhRCL/view?usp=sharing)
 
 
 ## Screenshots
@@ -43,44 +43,4 @@ This project was built as a portfolio/demo app to showcase mobile development sk
 
 ---
 
-## Try Instantly
-
-<div align="center">
-
-<b>Scan this QR code with <a href="https://expo.dev/client" target="_blank">Expo Go</a> to try the app instantly on your device:</b>
-
-<br/><br/>
-
-<img src="screenshots/qr.png" alt="Expo Go QR Code" width="180"/>
-
-</div>
-
----
-
-## Get Started
-
-1. **Install dependencies**
-    ```bash
-    npm install
-    ```
-2. **Start the app**
-    ```bash
-    npx expo start
-    ```
-
-You’ll find options to open the app in:
-- development build
-- Android emulator
-- iOS simulator
-- Expo Go (for quick testing)
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction/).
-
----
-
-## Get a Fresh Project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
+ 
